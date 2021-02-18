@@ -6,11 +6,11 @@ import requests
 
 
 port = 465
-gmail = 'gafj95@gmail.com'
-password = 'Ra_anubis95'
+gmail = 'email_address'
+password = 'password'
 
 sender =  gmail
-receiver = 'glenfjr95@gmail.com'
+receiver = 'sender_email'
 subject = 'Its the little things that we notice, that keep us going'
 body = "I am constantly taking my first step toward my future. At some point we have to hit that those high knees and loosen up \n - Glen F."
 
