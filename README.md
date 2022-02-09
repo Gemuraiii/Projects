@@ -15,13 +15,13 @@ Project ( Google Play App Market Review) 3:
 
 Project (TwitterBot) :
  - I created my own TwitterBot Script to upload pictures and statuses. This project was created to assist,
-   two college students with their programming homework.
+ two college students with their programming homework.
   
 
 Project  ( Email Affirmations):
   - Python script built to email the user affirmations. 
 
 Project (Spotify-24Hr):
-This program was created to collect what songs are played over the course of a 24hr day. Utilizing modules and packages such as Pandas, Sqlalchemy, requests, Spotipy, datetime, the script is built to pull recently played songs from accounts and format the data into a database. Creating descriptors for data as columns. Once constructed, the database is uploaded to a host RDS server on AWS to run requests daily. The data is then store in S2 section of AWS. The data is access through interacting with Spotify's API's.
+- This program was created to collect what songs are played over the course of a 24hr day. Utilizing modules and packages such as Pandas, Sqlalchemy, requests, Spotipy, datetime, the script is built to pull recently played songs from accounts and format the data into a database. Creating descriptors for data as columns. Once constructed, the database is uploaded to a host RDS server on AWS to run requests daily. The data is then store in S2 section of AWS. The data is access through interacting with Spotify's API's.
 
 
