@@ -2,7 +2,7 @@
 Collection of Data Engineer Projects
 
 Project  (Analyse TV Data):
-- Analyze Super Bowls, halftime shows and viwer rate from 1967 to 2018
+- An Analysis challenge presented by DataCamp, to Analyze Super Bowls, halftime shows and viwer rate from 1967 to 2018. Spending time expanding my Pandas and matplotlib skill set, I cleaned the 'super_bowl' and 'halftime_musicians' databases. Once cleaned, I visualized the distributions of combined points, point differences, and halftime show performances using histograms, and used line plots to see how ad cost increases lagged behind viewership increases.
 
 Project (IGB: Instagram Business Data):
 - This is an ETL algorithm built to access an Instagram Business page and share the information as a CSV file through email. The script utilizes Python libraries such as request, JSON, Pandas, Numpy, and Datetime to pull data from Instagram GET/REST APIs and construct a database to store the ID, access token and username. The information is stored as a token to pull the account profile views, follower counts, impressions and reach.
